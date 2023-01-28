@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(415,77): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(422,77): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(429,77): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(434,49): warning C4267: инициализация: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(434,49): warning C4267: инициализация: преобразование из "size_t" в "const GLuint"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(435,72): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(442,69): warning C4267: инициализация: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(442,69): warning C4267: инициализация: преобразование из "size_t" в "const GLuint"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(443,72): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(450,89): warning C4267: инициализация: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(450,89): warning C4267: инициализация: преобразование из "size_t" в "const GLuint"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(451,72): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(457,109): warning C4267: инициализация: преобразование из "size_t" в "GLuint"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(457,109): warning C4267: инициализация: преобразование из "size_t" в "const GLuint"; возможна потеря данных
+C:\Users\Grisha\source\repos\computer-graphics\Lab14\Lab14\main.cpp(458,72): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  obj-parser.cpp
+  Создание кода...
+  Lab14.vcxproj -> C:\Users\Grisha\source\repos\computer-graphics\Lab14\x64\Debug\Lab14.exe
